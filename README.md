@@ -2,7 +2,7 @@
 
 // My Self Junaid Khan and i'm a college student and my contact number is +91 9982274550
 
-<!-- Basic Linux Commands For Web Developers
+//Basic Linux Commands For Web Developers
 ls – List. ls lists the contents (files and folders) of the current working directory. ...
 mkdir – Make Directory.
 pwd – Print Working Directory.
@@ -10,7 +10,7 @@ cd – Change Directory.
 rmdir – Remove Directory.
 rm – Remove.
 cp – Copy.
-mv – MoVe. -->
+mv – MoVe.// 
 
 # Getting Started with Create React App
 
