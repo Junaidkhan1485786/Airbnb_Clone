@@ -1,0 +1,19 @@
+.Banner{
+    background: url("https://a0.muscache.com/im/pictures/miso/Hosting-52068342/original/a02a7d4d-a1bc-418f-a6de-970d41beade0.jpeg?im_w=1200");
+    height: 50vh;
+    position: relative;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.Search_button{
+    color: red !important;
+    background-color: white!important;
+    font-weight: 500;
+
+    border-width: 0.1px; 
+}
+.Banner_search{
+    display: flex;
+    flex-direction: column;
+}
